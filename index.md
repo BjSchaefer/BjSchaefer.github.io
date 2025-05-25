@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Willkommen
+layout: home
+title: Startseite
 ---
 
 # Hallo Welt!
