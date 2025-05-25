@@ -1,3 +1,7 @@
 title: Meine persönliche Website
 description: Dies ist meine Jekyll-Seite auf GitHub Pages.
 theme: minima
+
+# This adds links in the top nav
+header_pages:
+  - index.md
