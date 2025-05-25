@@ -1,28 +1,28 @@
 ---
-layout: default
+layout: single
 title: Home
 ---
 
-<nav class="section-nav">
-  <a href="#about">About</a> |
-  <a href="#projects">Projects</a> |
-  <a href="#contact">Contact</a>
-</nav>
+---
+layout: single
+title: My One Page Site
+---
 
 <section id="about">
   <h2>About Me</h2>
-  <p>This is the About section of my single-page site.</p>
+  <p>This is the About section of my one-page site.</p>
 </section>
 
 <section id="projects">
   <h2>Projects</h2>
-  <p>Here are some things I've built.</p>
+  <p>Here are some things I’ve built.</p>
 </section>
 
 <section id="contact">
   <h2>Contact</h2>
-  <p>You can reach me at email@example.com.</p>
+  <p>Email me at email@example.com</p>
 </section>
+
 
 
 Björn Schäfer
