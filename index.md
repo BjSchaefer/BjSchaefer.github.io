@@ -1,24 +1,7 @@
 ---
-layout: single
+layout: default
 title: Home
 ---
-
-<section id="about">
-  <h2>About Me</h2>
-  <p>This is the About section of my one-page site.</p>
-</section>
-
-<section id="projects">
-  <h2>Projects</h2>
-  <p>Here are some things I’ve built.</p>
-</section>
-
-<section id="contact">
-  <h2>Contact</h2>
-  <p>Email me at email@example.com</p>
-</section>
-
-
 
 Björn Schäfer
 
