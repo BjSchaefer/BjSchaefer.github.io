@@ -3,11 +3,6 @@ layout: single
 title: Home
 ---
 
----
-layout: single
-title: My One Page Site
----
-
 <section id="about">
   <h2>About Me</h2>
   <p>This is the About section of my one-page site.</p>
