@@ -3,6 +3,9 @@ layout: default
 title: About
 ---
 
+<p style="text-align: center;"><img src="portrait_circle_frame3.png" alt="Beschreibung" style="width: 200px; height: auto;"></p>
+
+
 I am a PhD-student at the Department of Mathematics of <a href="https://www.uni-saarland.de/start.html"> Saarland University</a> under the supervision of <a href="https://www.uni-saarland.de/lehrstuhl/weber-moritz/team/moritz-weber.html">Moritz Weber</a>. 
 Before that I was a master's student at <a href=">https://www.mathematik.tu-darmstadt.de/fb/index.de.jsp">TU Darmstadt</a>. My research interests are in quantum graphs, quantum groups and their applications in quantum information theory.
 
