@@ -1,9 +1,6 @@
 title: Björn Schäfer
 theme: minima
 
-author: 
-  name: Björn Schäfer
-  email: "bschaefer@math.uni-sb.de"
 
 # This adds links in the top nav
 header_pages:
@@ -11,6 +8,13 @@ header_pages:
 
 minima:
   social_links:
-    - title: LinkedIn Account of Björn Schäfer
-      icon: linkedin
-      url: "https://www.linkedin.com/in/björn-schäfer-a7a5bb351/"
+  - title: Jekyll repository at GitHub
+    icon: github
+    url: "https://github.com/jekyll/jekyll"
+  - title: LinkedIn Account of Björn Schäfer
+    icon: linkedin
+    url: "https://www.linkedin.com/in/björn-schäfer-a7a5bb351/"
+
+author: 
+  name: Björn Schäfer
+  email: "bschaefer@math.uni-sb.de"
