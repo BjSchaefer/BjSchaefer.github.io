@@ -13,7 +13,7 @@ title: About
     Before that I was a master's student at <a href=">https://www.mathematik.tu-darmstadt.de/fb/index.de.jsp">TU Darmstadt</a>. My research interests are in quantum graphs, quantum groups and their applications in quantum information theory.
     </p>
     <p>
-    You can contact me via <i>bschaefer[at]math.uni-sb.de</i>. See also <a href="https://orcid.org/0009-0000-4966-7736">[Orcid]</a>, <a href="https://arxiv.org/search/math?query=Schäfer%2C+Björn&searchtype=author&abstracts=show&order=-announced_date_first&size=50">[Arxive]</a>, <a href="https://www.linkedin.com/in/björn-schäfer-a7a5bb351/">[LinkedIn]</a>.
+    You can contact me via <b>bschaefer[at]math.uni-sb.de</b>. See also <a href="https://orcid.org/0009-0000-4966-7736">[Orcid]</a>, <a href="https://arxiv.org/search/math?query=Schäfer%2C+Björn&searchtype=author&abstracts=show&order=-announced_date_first&size=50">[Arxive]</a>, <a href="https://www.linkedin.com/in/björn-schäfer-a7a5bb351/">[LinkedIn]</a>.
     </p>
   </div>
 
@@ -26,7 +26,7 @@ title: About
 
 ## Talks
 
-1. Two Partitions of Unity. YMC\*A 2025, Glasgow. (lightning talk)
-2. Nuclearity of Hypergraph C\*-Algebras. Arbre de Noel 2024, Metz. (contributed talk)
-3. Nuclearity of Hypergraph C\*-Algebras. YMC\*A 2024, KU Leuven. (contributed talk)
+1. Two Partitions of Unity. YMC\*A 2024, Glasgow. (lightning talk)
+2. Nuclearity of Hypergraph C\*-Algebras. Arbre de Noel 2023, Metz. (contributed talk)
+3. Nuclearity of Hypergraph C\*-Algebras. YMC\*A 2023, KU Leuven. (contributed talk)
 
