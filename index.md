@@ -6,10 +6,10 @@ title: About
 <p>
     I am a PhD-student at the Department of Mathematics of <a href="https://www.uni-saarland.de/start.html"> Saarland University</a> under the supervision of <a href="https://www.uni-saarland.de/lehrstuhl/weber-moritz/team/moritz-weber.html">Moritz Weber</a>. 
     Before that I was a master's student at <a href=">https://www.mathematik.tu-darmstadt.de/fb/index.de.jsp">TU Darmstadt</a>. My research interests are in quantum graphs, quantum groups and their applications in quantum information theory.
-    </p>
-    <p>
+</p>
+<p>
     You can contact me via <b>bschaefer[at]math.uni-sb.de</b>. See also <a href="https://orcid.org/0009-0000-4966-7736">[Orcid]</a>, <a href="https://arxiv.org/search/math?query=Schäfer%2C+Björn&searchtype=author&abstracts=show&order=-announced_date_first&size=50">[Arxive]</a>, <a href="https://www.linkedin.com/in/björn-schäfer-a7a5bb351/">[LinkedIn]</a>.
-    </p>
+</p>
 
 
 ## Preprints
