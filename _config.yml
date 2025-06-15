@@ -11,10 +11,6 @@ minima:
   - title: Jekyll repository at GitHub
     icon: github
     url: "https://github.com/jekyll/jekyll"
-  - title: LinkedIn Account of Björn Schäfer
-    icon: linkedin
-    url: "https://www.linkedin.com/in/björn-schäfer-a7a5bb351/"
 
-author: 
-  name: Björn Schäfer
-  email: "bschaefer@math.uni-sb.de"
+author: Björn Schäfer
+email: "bschaefer@math.uni-sb.de"

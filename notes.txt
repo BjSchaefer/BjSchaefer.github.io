@@ -13,3 +13,7 @@
   </div>
 
 </div>
+
+- title: LinkedIn Account of Björn Schäfer
+    icon: linkedin
+    url: "https://www.linkedin.com/in/björn-schäfer-a7a5bb351/"
