@@ -1,6 +1,10 @@
 title: Björn Schäfer
 theme: minima
 
+author: 
+  name: Björn Schäfer
+  email: "bschaefer@math.uni-sb.de"
+
 # This adds links in the top nav
 header_pages:
   - index.md
