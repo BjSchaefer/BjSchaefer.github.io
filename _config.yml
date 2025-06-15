@@ -6,8 +6,8 @@ theme: minima
 header_pages:
   - index.md
 
-minima:
-  social_links:
+
+social_links:
   - title: Jekyll repository at GitHub
     icon: github
     url: "https://github.com/jekyll/jekyll"
