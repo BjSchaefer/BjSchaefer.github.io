@@ -6,6 +6,12 @@ theme: minima
 header_pages:
   - index.md
 
+author:
+  name: Björn Schäfer
+  bio: I am a mathematician at the University of Saarland, Germany. My research interests quantum groups, quantum graphs and quantum information theory.
+  location: Saarbrücken, Germany
+  links:
+    - "https://orcid.org/0000-0002-1234-5678"
 
 social_links:
   - title: Jekyll repository at GitHub
