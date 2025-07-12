@@ -20,6 +20,6 @@ You can contact me via <b>bschaefer[at]math.uni-sb.de</b>. See also <a href="htt
 
 1. Hypergraph C*-Algebras. 20th Workshop: Noncommutative Probability, Operator Algebras and Related Topics, with Applications, Będlewo 2025.
 1. Two Partitions of Unity. YMC\*A 2024, Glasgow. (lightning talk)
-2. Nuclearity of Hypergraph C\*-Algebras. Arbre de Noel 2023, Metz. (contributed talk)
+2. Nuclearity of Hypergraph C\*-Algebras. Arbre de Noël 2023, Metz. (contributed talk)
 3. Nuclearity of Hypergraph C\*-Algebras. YMC\*A 2023, KU Leuven. (contributed talk)
 
