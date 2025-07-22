@@ -14,11 +14,12 @@ You can contact me via <b>bschaefer[at]math.uni-sb.de</b>. See also <a href="htt
 
 ## Preprints
 
+1. N. Kiefer, S.: Complete Classification of Directed Quantum Graphs on M2 (2025). [[arxiv]](https://arxiv.org/abs/2507.15534)
 1. S., M. Weber: Nuclearity of Hypergraph C\*-Algebras (2024). To appear in *Journal of Noncommutative Geometry*. [[arxiv]](https://arxiv.org/abs/2405.10044)
 
 ## Talks
 
-1. Hypergraph C*-Algebras. 20th Workshop: Noncommutative Probability, Operator Algebras and Related Topics, with Applications, Będlewo 2025.
+1. Hypergraph C*-Algebras. 20th Workshop: Noncommutative Probability, Operator Algebras and Related Topics, with Applications, Będlewo 2025. [[slides]](talks/hypergraph_Bedlewo_2507_handout.pdf)
 1. Two Partitions of Unity. YMC\*A 2024, Glasgow. (lightning talk)
 2. Nuclearity of Hypergraph C\*-Algebras. Arbre de Noël 2023, Metz. (contributed talk)
 3. Nuclearity of Hypergraph C\*-Algebras. YMC\*A 2023, KU Leuven. (contributed talk)
