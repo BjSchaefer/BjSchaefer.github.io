@@ -5,11 +5,3 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
-
-.site-title {
-  font-family: 'Roboto', sans-serif;
-  font-size: 2rem;
-  color: #2b2b2b;
-  text-transform: uppercase;
-  text-decoration: none;
-}
