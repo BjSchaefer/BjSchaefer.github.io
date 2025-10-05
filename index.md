@@ -1,6 +1,5 @@
 ---
-layout: default
-title: About
+layout: home
 ---
 
 <p style="text-align: center;"><img src="portrait_circle_frame3.png" alt="Beschreibung" style="width: 200px; height: auto;"></p>

@@ -3,8 +3,13 @@ layout: default
 title: Teaching
 ---
 
-## Teaching
+## Talks and Conferences
 
-- Winter term 24/25: teaching assistant for <a href="https://cms.sic.saarland/ana1_24/">Analysis I</a> at Saarland University
-- Winter term 25/26: teaching assistant for <a href="https://cms.sic.saarland/anna3_25/">Analysis III</a> at Saarland University
+- **20th Workshop: Noncommutative Probability, Operator Algebras and Related Topics, with Applications, Będlewo 2025** \
+    Hypergraph C*-Algebras. [[slides]](talks/hypergraph_Bedlewo_2507_handout.pdf)
+    
+- **YMC\*A 2024, Glasgow**
+    Two Partitions of Unity. (lightning talk)
+- Nuclearity of Hypergraph C\*-Algebras. Arbre de Noël 2023, Metz. (contributed talk)
+- Nuclearity of Hypergraph C\*-Algebras. YMC\*A 2023, KU Leuven. (contributed talk)
 
