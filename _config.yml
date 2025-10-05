@@ -5,6 +5,7 @@ theme: minima
 # This adds links in the top nav
 header_pages:
   - index.md
+  - 3_talks.md
   - 2_teaching.md
 
 social_links:
@@ -13,5 +14,3 @@ social_links:
     url: "https://github.com/jekyll/jekyll"
 
 email: "bschaefer@math.uni-sb.de"
-
-google_analytics: G-F4MVNQ1QSP

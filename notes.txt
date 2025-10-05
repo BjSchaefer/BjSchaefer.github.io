@@ -17,3 +17,12 @@
 - title: LinkedIn Account of Björn Schäfer
     icon: linkedin
     url: "https://www.linkedin.com/in/björn-schäfer-a7a5bb351/"
+
+------------------------------------------------------------------------------------
+
+## Talks
+
+- Hypergraph C*-Algebras. 20th Workshop: Noncommutative Probability, Operator Algebras and Related Topics, with Applications, Będlewo 2025. [[slides]](talks/hypergraph_Bedlewo_2507_handout.pdf)
+- Two Partitions of Unity. YMC\*A 2024, Glasgow. (lightning talk)
+- Nuclearity of Hypergraph C\*-Algebras. Arbre de Noël 2023, Metz. (contributed talk)
+- Nuclearity of Hypergraph C\*-Algebras. YMC\*A 2023, KU Leuven. (contributed talk)
