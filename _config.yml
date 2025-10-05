@@ -4,7 +4,8 @@ theme: minima
 
 # This adds links in the top nav
 header_pages:
-  - 1_index.md
+  - index.md
+  - 2_teaching.md
 
 social_links:
   - title: Jekyll repository at GitHub
