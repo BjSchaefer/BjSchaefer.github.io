@@ -2,9 +2,10 @@ title: Björn Schäfer
 theme: minima
 
 
-# This adds links in the top nav
+# This adds li‚nks in the top nav
 header_pages:
   - index.md
+  - 4_papers.md
   - 3_talks.md
   - 2_teaching.md
 
