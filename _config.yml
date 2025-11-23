@@ -8,6 +8,7 @@ header_pages:
   - 4_papers.md
   - 3_talks.md
   - 2_teaching.md
+  - 5_CV.md
 
 social_links:
   - title: Jekyll repository at GitHub
