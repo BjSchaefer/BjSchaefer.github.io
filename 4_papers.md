@@ -22,7 +22,7 @@ with [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz/team/mori
 ## Theses
 
 - **Nuclearity of hypergraph C\*-algebras (2023)** \
-Masters thesis supervised by Moritz Weber (Saarland University) and Steffen Roch (TU Darmstadt).
+Master's thesis supervised by [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz/team/moritz-weber.html) (Saarland University) and [Steffen Roch](https://www.mathematik.tu-darmstadt.de/fb/personal/details/steffen_roch.de.jsp) (TU Darmstadt).
 
-- **Regression representations for pricing American options in discrete time (2020)** \\
-Bachelors thesis supervised by Michael Kohler (TU Darmstadt).
+- **Regression representations for pricing American options in discrete time (2020)** \
+Bachelor's thesis supervised by [Michael Kohler](https://www.mathematik.tu-darmstadt.de/fb/personal/details/michael_kohler.de.jsp) (TU Darmstadt).
