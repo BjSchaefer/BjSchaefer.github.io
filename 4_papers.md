@@ -19,7 +19,7 @@ with [Nina Kiefer](https://www.uni-saarland.de/lehrstuhl/weber-moritz/team/nina-
 ## Publications
 
 - **Nuclearity of hypergraph C\*-algebras (2025)** \
-with [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz/team/moritz-weber.html), 47 pp, *Journal of Noncommutative Geometry*. [[arxiv]](https://arxiv.org/abs/2405.10044) [[doi]](https://ems.press/journals/jncg/articles/14299323)
+with [Moritz Weber](https://www.uni-saarland.de/lehrstuhl/weber-moritz/team/moritz-weber.html), 58 pp, *Journal of Noncommutative Geometry*. [[arxiv]](https://arxiv.org/abs/2405.10044) [[doi]](https://ems.press/journals/jncg/articles/14299323)
 
 ## Theses
 
