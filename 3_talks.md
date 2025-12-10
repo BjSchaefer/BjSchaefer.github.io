@@ -3,14 +3,12 @@ layout: default
 title: Talks
 ---
 
-## Upcoming Talks
-
-- **Two Partitions of Unity** (contributed talk) \
-Workshop on Quantum Information and Operator Systems \
-University of Oslo, Dec 2025
-
 
 ## Past Talks and Conferences
+
+- **Two Partitions of Unity** (contributed talk) [[slides]](talks/two_partitions_handout_251209.pdf) \
+Workshop on Quantum Information and Operator Systems \
+University of Oslo, Dec 2025
 
 - **Quantum Graphs on M2** [[slides]](talks/breslau_handout_slides_2512.pdf) \
 Seminar on Discrete Harmonic Analysis and Noncommutative Probability \
