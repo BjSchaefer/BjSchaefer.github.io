@@ -20,8 +20,6 @@ title: Research
   async>
 </script>
 
-
-
 ## Research Projects
 
 ### **Derived quantum graphs (2025 - )**
