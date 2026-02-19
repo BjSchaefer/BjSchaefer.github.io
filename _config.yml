@@ -5,6 +5,7 @@ theme: minima
 # This adds li‚nks in the top nav
 header_pages:
   - index.md
+  - 6_research.md
   - 4_papers.md
   - 3_talks.md
   - 2_teaching.md
