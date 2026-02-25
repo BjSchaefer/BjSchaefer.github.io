@@ -14,4 +14,4 @@ title: Teaching
 
 ## Miscellaneous
 
-- I vibe-coded a PDF editor [GradeFrame](https://github.com/BjSchaefer/GradeFrame) that is custom made for grading exercise sheets at the university.
+- I vibe-coded a PDF editor [GradeFrame](https://github.com/BjSchaefer/GradeFrame) that is custom made for grading exercise sheets at the university. Contributions welcome!
