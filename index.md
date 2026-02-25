@@ -17,7 +17,7 @@ You can contact me via <b>bschaefer[at]math.uni-sb.de</b>. See also <a href="htt
 
 - From March 1 to March 14, 2026, I will take part in the program on Operator Algebras and Quantum Information at Institut Mittag-Leffler. \
  [Feb 25, 2026]
-- A new preprint with Mariusz Tobolski on "voltage quantum graphs and a Gross-Tucker theorem for quantum graphs" can be found on the Arxiv [[link]](https://arxiv.org/abs/2602.20996). \
+- A new preprint with Mariusz Tobolski on "Voltage quantum graphs and a Gross-Tucker theorem for quantum graphs" can be found on the Arxiv [[link]](https://arxiv.org/abs/2602.20996). \
 [Feb 25, 2026]
 - I vibe-coded a PDF editor [GradeFrame](https://github.com/BjSchaefer/GradeFrame) to mark exercise sheets from students. Comments and contributions on GitHub are very welcome! \
  [Feb 25, 2026]
