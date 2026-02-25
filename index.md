@@ -13,9 +13,9 @@ My research interests are quantum graphs, <a href="https://en.wikipedia.org/wiki
 
 You can contact me via <b>bschaefer[at]math.uni-sb.de</b>. See also <a href="https://orcid.org/0009-0000-4966-7736">[Orcid]</a>, <a href="https://arxiv.org/search/math?query=Schäfer%2C+Björn&searchtype=author&abstracts=show&order=-announced_date_first&size=50">[Arxiv]</a>, <a href="https://www.linkedin.com/in/björn-schäfer-a7a5bb351/">[LinkedIn]</a>.
 
-**News**
+## News
 
-- I am looking forward to visit Institut Mittag-Leffler from March 1 to March 14, 2026 to take part in the program on Operator Algebras and Quantum Information. \
+- From March 1 to March 14, 2026, I will take part in the program on Operator Algebras and Quantum Information at Institut Mittag-Leffler. \
  [Feb 25, 2026]
 - A new preprint with Mariusz Tobolski on "voltage quantum graphs and a Gross-Tucker theorem for quantum graphs" can be found on the Arxiv [[link]](https://arxiv.org/abs/2602.20996). \
 [Feb 25, 2026]
