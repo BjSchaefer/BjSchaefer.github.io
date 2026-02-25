@@ -7,6 +7,9 @@ title: Papers
 
 ## Preprints
 
+- **Voltage quantum graphs and a Gross-Tucker theorem for quantum graphs** \
+with [Mariusz Tobolski](https://www.researchgate.net/profile/Mariusz-Tobolski), 38 pp. [[arxiv]](https://arxiv.org/abs/2602.20996)
+
 - **Complete classification of directed quantum graphs on M2** \
 with [Nina Kiefer](https://www.uni-saarland.de/lehrstuhl/weber-moritz/team/nina-kiefer.html), 42 pp, submitted 07/2025. [[arxiv]](https://arxiv.org/abs/2507.15534)
 

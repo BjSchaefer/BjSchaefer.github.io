@@ -24,10 +24,11 @@ title: Research
 
 ### **Derived quantum graphs (2025 - )**
 
-If $\Gamma$ is a directed graph and $\lambda: E_\Gamma \to G$ is a labeling of its edges with elements from a group $G$, then a classical construction of Gross and Tucker yields the derived graph $\Gamma^\lambda$ with vertex and edge set $V_\Gamma \times G$, $E_\Gamma \times G$, respectively. Conversely, a theorem of Gross and Tucker states that every graph $\Gamma$ can be written as derived graph with respect to the group $G$ as soon as there is a free action of $G$ on $\Gamma$. Just one application of this theorem is in the theory of graph C\*-algebras, where Kumjian and Pask use it to describe certain graph C\*-algebras as crossed product C\*-algebras. In an ongoing work with Mariusz Tobolski, we generalize the theory of Gross and Tucker to quantum graphs.
+If $\Gamma$ is a directed graph and $\lambda: E_\Gamma \to G$ is a labeling of its edges with elements from a group $G$, then a classical construction of Gross and Tucker yields the derived graph $\Gamma^\lambda$ with vertex and edge set $V_\Gamma \times G$, $E_\Gamma \times G$, respectively. Conversely, a theorem of Gross and Tucker states that every graph $\Gamma$ can be written as derived graph with respect to the group $G$ as soon as there is a free action of $G$ on $\Gamma$. Just one application of this theorem is in the theory of graph C\*-algebras, where Kumjian and Pask use it to describe certain graph C\*-algebras as crossed product C\*-algebras. In a joint work with Mariusz Tobolski [1], we generalize the theory of Gross and Tucker to quantum graphs.
+
+[1] B. Schäfer, M. Tobolski: Voltage quantum graphs and a Gross-Tucker theorem for quantum graphs
 
 ---
-<br>
 
 ### **Directed quantum graphs on M2 (2025)**
 
@@ -36,7 +37,6 @@ In 2022 D. Gromada and J. Matsuda independently of each other showed that, up to
 [1] N. Kiefer, B. Schäfer: Complete classification of quantum graphs on M2
 
 ---
-<br>
 
 ### **Hypergraph C\*-algebras and two partitions of unity (2024 - )**
 

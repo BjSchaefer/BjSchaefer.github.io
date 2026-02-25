@@ -4,6 +4,11 @@
 @import "minima";  /* Import the theme’s default styles */
 
 /* Your overrides go below */
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 .site-title {
   font-weight: 400;
   letter-spacing: 1px;
