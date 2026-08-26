@@ -6,6 +6,10 @@ title: Talks
 
 ## Past Talks and Conferences
 
+- **Quantum graphs with a group action** (lightning talk) [[slides]](talks/prague_26_handout.pdf) \
+  Noncommutative geometry along the North Sea 2026 \
+  Charles University Prague, Aug 2026
+
 - **Two Partitions of Unity** (contributed talk) [[slides]](talks/two_partitions_handout_251209.pdf) \
 Workshop on Quantum Information and Operator Systems \
 University of Oslo, Dec 2025
