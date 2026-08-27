@@ -13,6 +13,12 @@ My research interests are quantum graphs, <a href="https://en.wikipedia.org/wiki
 
 You can contact me via <b>bschaefer[at]math.uni-sb.de</b>. See also <a href="https://orcid.org/0009-0000-4966-7736">[Orcid]</a>, <a href="https://arxiv.org/search/math?query=Schäfer%2C+Björn&searchtype=author&abstracts=show&order=-announced_date_first&size=50">[Arxiv]</a>, <a href="https://www.linkedin.com/in/björn-schäfer-a7a5bb351/">[LinkedIn]</a>.
 
+### News
+
+- I am looking forward to joining [Institute of Mathematics - Polish Academy of Sciences](https://www.impan.pl/en) (IMPAN) as a postdoc in October 2026.
+
+
+
 
 
 
