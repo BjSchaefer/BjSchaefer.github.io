@@ -6,7 +6,7 @@ layout: home
 
 <br>
 
-Since October 2026, I am an Assistant Professor at the Institute of Mathematics of the Polish Academy of Sciences (<a href="https://www.impan.pl/en/"> IMPAN</a>) in the research group on operator algebras. My mentor is <a href="https://www.impan.pl/~skalski/">Adam Skalski</a>.
+Since October 2026, I am an Assistant Professor at the Institute of Mathematics of the Polish Academy of Sciences (<a href="https://www.impan.pl/en/">IMPAN</a>) in the research group on operator algebras. My mentor is <a href="https://www.impan.pl/~skalski/">Adam Skalski</a>.
 Before that I completed my PhD at <a href="https://www.uni-saarland.de/start.html">Saarland University</a> under the supervision of <a href="https://www.uni-saarland.de/lehrstuhl/weber-moritz/team/moritz-weber.html">Moritz Weber</a>. 
 Previously I was a master's student at <a href="https://www.mathematik.tu-darmstadt.de">TU Darmstadt</a>. 
 
