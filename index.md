@@ -7,7 +7,7 @@ layout: home
 <br>
 
 Since October 2026, I am an Assistant Professor at the Institute of Mathematics of the Polish Academy of Sciences (<a href="https://www.impan.pl/en/">IMPAN</a>) in the research group on operator algebras. My mentor is <a href="https://www.impan.pl/~skalski/">Adam Skalski</a>.
-Before that I completed my PhD at <a href="https://www.uni-saarland.de/start.html">Saarland University</a> under the supervision of <a href="https://www.uni-saarland.de/lehrstuhl/weber-moritz/team/moritz-weber.html">Moritz Weber</a>.
+Before that I completed my PhD studies at <a href="https://www.uni-saarland.de/start.html">Saarland University</a> under the supervision of <a href="https://www.uni-saarland.de/lehrstuhl/weber-moritz/team/moritz-weber.html">Moritz Weber</a>.
 
 My research interests are quantum graphs, <a href="https://en.wikipedia.org/wiki/Compact_quantum_group">compact quantum groups</a> and their applications in <a href="https://en.wikipedia.org/wiki/Quantum_information">quantum information theory</a>. Besides that, I am also interested in <a href="https://en.wikipedia.org/wiki/Graph_C*-algebra">graph C\*-algebras</a> and their generalizations to hypergraphs or quantum graphs.
 
