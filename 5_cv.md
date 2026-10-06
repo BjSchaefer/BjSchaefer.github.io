@@ -5,7 +5,10 @@ title: CV
 
 ## Short CV
 
-- **Saarland University (2024+)** \
+- **IMPAN - Institute of Mathematics, Polish Academy of Sciences (10/2026 - 09/2028)**
+Postdoc in the research group on operator algebras.
+
+- **Saarland University (2024 - 2026)** \
 PhD student under the supervision of Moritz Weber.
 
 - **TU Darmstadt (2020 - 2023)** \
